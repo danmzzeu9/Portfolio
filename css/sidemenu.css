@@ -126,7 +126,7 @@ aside.sidemenu > section.header > div.header-search {
 
 aside.sidemenu > section.header > div.header-search > i {
     position: absolute;
-    top: 50%;
+    top: 45px;
     left: 15px;
     transform: translateY(-50%);
     font-size: 15px;
